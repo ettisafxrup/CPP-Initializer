@@ -66,4 +66,6 @@ echo } >> "%PROJECT_NAME%\.vscode\tasks.json"
 
 echo.
 echo Project "%PROJECT_NAME%" created successfully!
-pause
+
+cd "%PROJECT_NAME%"
+code .
