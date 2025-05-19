@@ -1,6 +1,6 @@
 ### Just a Regular CPP Initializer
 
-Download and Run the Programme
+Download the batch file (init.bat) and Run the Programme
 It will ask for a <b>Project Name</b>
 
 <br>
