@@ -1,4 +1,4 @@
-### Just a Regular CPP Initializer
+### Just a Regular CPP Initializer for VS Code
 
 Download the batch file (init.bat) and Run the Programme
 It will ask for a <b>Project Name</b>
