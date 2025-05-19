@@ -4,9 +4,8 @@ Download and Run the Programme
 It will ask for a <b>Project Name</b>
 
 <br>
-<img src="https://ibb.co/7JkJrs9V" />
-<img src="https://ibb.co/v6mT2CNR" />
-
+<img src="https://i.ibb.co/BVnVT01j/Screenshot-5.png" alt="Screenshot-5" border="0">
+<img src="https://i.ibb.co/zTbBKW3D/Screenshot-6.png" alt="Screenshot-6" border="0">
 <br>
 
 and your project structure is ready 😉
