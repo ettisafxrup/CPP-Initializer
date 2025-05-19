@@ -64,8 +64,12 @@ echo     } >> "%PROJECT_NAME%\.vscode\tasks.json"
 echo   ] >> "%PROJECT_NAME%\.vscode\tasks.json"
 echo } >> "%PROJECT_NAME%\.vscode\tasks.json"
 
-echo.
 echo Project "%PROJECT_NAME%" created successfully!
+echo Opening VS Code...
 
 cd "%PROJECT_NAME%"
 code .
+
+REM Wait 3 seconds before closing the terminal
+timeout /t 3 >nul
+exit
