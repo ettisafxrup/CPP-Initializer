@@ -4,7 +4,8 @@ Download and Run the Programme
 It will ask for a <b>Project Name</b>
 
 <br>
-(https://github.com/user-attachments/assets/242463e6-e858-4c31-b72d-98a99f4e8dfd)
+https://ibb.co/7JkJrs9V
+https://ibb.co/v6mT2CNR
 <br>
 
 and your project structure is ready 😉
